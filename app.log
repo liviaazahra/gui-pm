@@ -1,0 +1,21 @@
+2024-11-21 11:36:21,349 - INFO - Database initialized successfully.
+2024-11-21 11:36:25,012 - INFO - Running update_table_loop
+2024-11-21 11:36:25,016 - ERROR - Error inserting data: table patient_vitals has no column named ecg
+2024-11-21 11:36:25,017 - ERROR - Error retrieving data: no such column: ecg
+2024-11-21 11:36:25,018 - INFO - Updating table with data: []
+2024-11-21 11:36:26,014 - INFO - Running update_table_loop
+2024-11-21 11:36:26,016 - ERROR - Error inserting data: table patient_vitals has no column named ecg
+2024-11-21 11:36:26,016 - ERROR - Error retrieving data: no such column: ecg
+2024-11-21 11:36:26,016 - INFO - Updating table with data: []
+2024-11-21 11:36:27,015 - INFO - Running update_table_loop
+2024-11-21 11:36:27,016 - ERROR - Error inserting data: table patient_vitals has no column named ecg
+2024-11-21 11:36:27,018 - ERROR - Error retrieving data: no such column: ecg
+2024-11-21 11:36:27,018 - INFO - Updating table with data: []
+2024-11-21 11:36:28,015 - INFO - Running update_table_loop
+2024-11-21 11:36:28,016 - ERROR - Error inserting data: table patient_vitals has no column named ecg
+2024-11-21 11:36:28,016 - ERROR - Error retrieving data: no such column: ecg
+2024-11-21 11:36:28,016 - INFO - Updating table with data: []
+2024-11-21 11:36:29,015 - INFO - Running update_table_loop
+2024-11-21 11:36:29,016 - ERROR - Error inserting data: table patient_vitals has no column named ecg
+2024-11-21 11:36:29,016 - ERROR - Error retrieving data: no such column: ecg
+2024-11-21 11:36:29,016 - INFO - Updating table with data: []
