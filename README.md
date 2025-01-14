@@ -1,4 +1,3 @@
-"""
 # GUI for Patient Monitor Prototype
 
 ## Description
@@ -14,3 +13,8 @@ The current version of the project includes code and UI files that are being dev
 - Includes data graphs for easy visualization of patient status.
 - Alarms for abnormal vital signs.
 - Intuitive navigation between different screens.
+  
+## Technologies Used
+- **Python**: The core programming language for developing the application.
+- **PyQt5**: Framework for building the GUI.
+- **Qt Designer**: Tool used for designing the `.ui` files, which are later converted to Python code.
