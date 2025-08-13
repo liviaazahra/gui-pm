@@ -6,8 +6,7 @@ This is an ongoing project that aims to develop a Python-based graphical user in
 The current version of the project includes code and UI files that are being developed to interface with embedded systems for patient monitoring.
 
 ## Project Status
-**Completed – Under continuous improvement**
-The main objectives are achieved, while additional features and optimizations are being developed.
+**Completed – Under continuous improvement**: The main objectives are achieved, while additional features and optimizations are being developed.
 
 ## Features
 - Displays real-time vital signs data (e.g., heart rate, blood pressure, SpO2 levels, etc.)
